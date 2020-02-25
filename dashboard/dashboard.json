@@ -1,0 +1,1326 @@
+{
+   "dashboards": [{
+      "autoswitchEnabled": false,
+      "columnCount": 1,
+      "columnProportion": "1",
+      "creationTime": 1582590438755,
+      "dashboardNavigations": {},
+      "description": "",
+      "disabled": false,
+      "gridsterMaxColumns": 12,
+      "hidden": false,
+      "homeTab": false,
+      "id": "dd2867ef-7b15-4860-bca6-22181b3b6f2e",
+      "importAttempts": 0,
+      "importComplete": true,
+      "isDefault": false,
+      "locked": false,
+      "name": "JBoss",
+      "rank": 117,
+      "shared": false,
+      "states": [],
+      "temporary": false,
+      "userId": "1e112a3f-1091-48f5-ac36-819f4a919f15",
+      "widgetInteractions": [
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "c91bead2-dc64-4d47-a9e8-bc9aeb841e92"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "ffaaf27e-799b-4ead-bc5d-6a7b208db27b"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "3fb414ec-97e1-458c-bec1-323f420da27d"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "789c5678-4828-4f09-aa4f-c3d94005a38a"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "bcf73f40-d455-4c59-ab17-212898e06055"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "6c042aa9-b965-490f-8811-c6768e3b9c22"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "4142b93c-94ce-4835-86c6-1e70d68edceb"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "f49ffb93-e9a9-43ed-a22b-93916e453931"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "9760f499-2d49-491d-ac29-2ef49efdb274"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "8426c5ea-907a-4578-bd00-3d0af4226a81"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "43504dfc-fe7b-425b-bea3-700099b161e1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "widgetIdReceiver": "36fc8294-dd1d-4212-bfa2-4e7d4c182941"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "36fc8294-dd1d-4212-bfa2-4e7d4c182941",
+            "widgetIdReceiver": "43504dfc-fe7b-425b-bea3-700099b161e1"
+         },
+         {
+            "type": "resourceId",
+            "widgetIdProvider": "36fc8294-dd1d-4212-bfa2-4e7d4c182941",
+            "widgetIdReceiver": "0dde0fd9-1662-4288-851b-615dfed631b0"
+         },
+         {
+            "type": "metricId",
+            "widgetIdProvider": "0dde0fd9-1662-4288-851b-615dfed631b0",
+            "widgetIdReceiver": "d1796502-17aa-4e08-be6f-fde9191ebcc1"
+         }
+      ],
+      "widgets": [
+         {
+            "collapsed": false,
+            "config": {
+               "additionalColumns": [],
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "filterMode": "tagPicker",
+               "mode": "all",
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resource": [],
+               "selectFirstRow": {"selectFirstRow": false},
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": {
+                  "path": ["/source/kind/kind:resourceKind:id:0_::_"],
+                  "value": {
+                     "adapterInstance": [],
+                     "adapterKind": [],
+                     "bus": [],
+                     "collector": [],
+                     "day": [],
+                     "exclaim": false,
+                     "healthRange": [],
+                     "kind": ["resourceKind:id:0_::_"],
+                     "maintenanceSchedule": [],
+                     "state": [],
+                     "status": [],
+                     "tag": [],
+                     "tier": []
+                  }
+               },
+               "title": "JBoss Servers"
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 1,
+               "y": 1
+            },
+            "height": 438,
+            "id": "cbb2b0a1-c047-4074-844a-c288ca910e7c",
+            "states": [
+               {
+                  "key": "permResGrid_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_cbb2b0a1-c047-4074-844a-c288ca910e7c",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah2%25255Ewidth%25253Dn%2525253A73%255Eo%25253Aid%25253Ds%2525253Ah3%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah4%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah5%25255Ehidden%25253Db%2525253A1%255Eo%25253Aid%25253Ds%2525253Ah6%255Eo%25253Aid%25253Ds%2525253Ah7%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah8%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah9%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah10%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah11%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah12%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah13%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah14%25255Ewidth%25253Dn%2525253A40%255Eo%25253Aid%25253Ds%2525253Ah15%25255Ehidden%25253Db%2525253A0%255Eo%25253Aid%25253Ds%2525253Ah16%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah17%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah18%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah19%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah20%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah21%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah22%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah23%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah24%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah25%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah26%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah27%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah28%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah29%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah30%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah31%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah32%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah33%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah34%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah35%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah36%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah37%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah38%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah39%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah40%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah41%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah42%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah43%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah44%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah45%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100%255Eo%25253Aid%25253Ds%2525253Ah46%25255Ehidden%25253Db%2525253A1%25255Ewidth%25253Dn%2525253A100"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_cbb2b0a1-c047-4074-844a-c288ca910e7c",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "JBoss Servers",
+            "type": "ResourceList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 3,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel1462-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:direct|Count",
+                        "metricName": "Buffer Pool:direct|Count",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel1462-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:direct|MemoryUsed",
+                        "metricName": "Buffer Pool:direct|Memory Used",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel1462-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:direct|TotalCapacity",
+                        "metricName": "Buffer Pool:direct|Total Capacity",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "Buffer Pool | Direct",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 2,
+               "x": 7,
+               "y": 4
+            },
+            "height": 153,
+            "id": "c91bead2-dc64-4d47-a9e8-bc9aeb841e92",
+            "title": "Buffer Pool | Direct",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 3,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel4789-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:mapped|Count",
+                        "metricName": "Buffer Pool:mapped|Count",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel4789-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:mapped|MemoryUsed",
+                        "metricName": "Buffer Pool:mapped|Memory Used",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel4789-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_buffer_pool:mapped|TotalCapacity",
+                        "metricName": "Buffer Pool:mapped|Total Capacity",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "Buffer Pool | Mapped",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 2,
+               "x": 5,
+               "y": 4
+            },
+            "height": 153,
+            "id": "ffaaf27e-799b-4ead-bc5d-6a7b208db27b",
+            "title": "Buffer Pool | Mapped",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 3,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel7532-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_class_loading|LoadedClassCount",
+                        "metricName": "Class Loading|Loaded Class Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel7532-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_class_loading|TotalLoadedClassCount",
+                        "metricName": "Class Loading|Total Loaded Class Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel7532-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_class_loading|UnloadedClassCount",
+                        "metricName": "Class Loading|Unloaded Class Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "Class Loading",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 3,
+               "x": 8,
+               "y": 1
+            },
+            "height": 153,
+            "id": "3fb414ec-97e1-458c-bec1-323f420da27d",
+            "title": "Class Loading",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 2,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel8299-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "fdusage|MaxFileDescriptorCount",
+                        "metricName": "File Descriptor Usage|Max File Descriptor Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel8299-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "fdusage|OpenFileDescriptorCount",
+                        "metricName": "File Descriptor Usage|Open File Descriptor Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "File Descriptor Usage",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 2,
+               "x": 9,
+               "y": 4
+            },
+            "height": 153,
+            "id": "789c5678-4828-4f09-aa4f-c3d94005a38a",
+            "title": "File Descriptor Usage",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 4,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel24580-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:https|bytesReceived",
+                        "metricName": "Https Listener:https|Bytes Received",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel24580-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:https|bytesSent",
+                        "metricName": "Https Listener:https|Bytes Sent",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel24580-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:https|errorCount",
+                        "metricName": "Https Listener:https|Error Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel24580-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:https|requestCount",
+                        "metricName": "Https Listener:https|Request Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "HTTPS Listener",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 3,
+               "x": 5,
+               "y": 12
+            },
+            "height": 153,
+            "id": "bcf73f40-d455-4c59-ab17-212898e06055",
+            "title": "HTTPS Listener",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 5,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 10,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel14685-1",
+                        "isStringMetric": false,
+                        "label": "",
+                        "link": "",
+                        "metricKey": "uptime",
+                        "metricName": "Uptime",
+                        "metricUnitId": "day",
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Day(s)",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel21384-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "utilization|HeapMemoryUsage",
+                        "metricName": "UTILIZATION|Heap Memory Usage",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel23480-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "ProcessCpuLoad",
+                        "metricName": "Process CPU Usage",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel23480-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "SystemCpuLoad",
+                        "metricName": "System CPU Usage",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel23480-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "SystemLoadAverage",
+                        "metricName": "System Load Average",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedSize"},
+               "oldMetricValues": true,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "Uptime / Utilization",
+               "valueSize": 14,
+               "visualTheme": 1
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 3,
+               "x": 5,
+               "y": 1
+            },
+            "height": 152,
+            "id": "6c042aa9-b965-490f-8811-c6768e3b9c22",
+            "title": "Uptime / Utilization",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 2,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel18352-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:default|bytesReceived",
+                        "metricName": "Http Listener:default|Bytes Received",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel18352-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:default|bytesSent",
+                        "metricName": "Http Listener:default|Bytes Sent",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel18352-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:default|errorCount",
+                        "metricName": "Http Listener:default|Error Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel18352-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:default|requestCount",
+                        "metricName": "Http Listener:default|Request Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "HTTP Listener | Default",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 2,
+               "x": 5,
+               "y": 7
+            },
+            "height": 267,
+            "id": "4142b93c-94ce-4835-86c6-1e70d68edceb",
+            "title": "HTTP Listener | Default",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 2,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel19100-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:{http-listener}|requestCount",
+                        "metricName": "Http Listener:{http-listener}|Request Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel19100-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:{http-listener}|bytesReceived",
+                        "metricName": "Http Listener:{http-listener}|Bytes Received",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel19100-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:{http-listener}|bytesSent",
+                        "metricName": "Http Listener:{http-listener}|Bytes Sent",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel19100-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "http_listener:{http-listener}|errorCount",
+                        "metricName": "Http Listener:{http-listener}|Error Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "{http-listener}",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 2,
+               "x": 7,
+               "y": 7
+            },
+            "height": 267,
+            "id": "f49ffb93-e9a9-43ed-a22b-93916e453931",
+            "title": "{http-listener}",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 2,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel20634-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_threading|DaemonThreadCount",
+                        "metricName": "Threading|Daemon Thread Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel20634-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_threading|PeakThreadCount",
+                        "metricName": "Threading|Peak Thread Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel20634-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_threading|ThreadCount",
+                        "metricName": "Threading|Thread Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel20634-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "java_threading|TotalStartedThreadCount",
+                        "metricName": "Threading|Total Started Thread Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "Threading",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 5,
+               "w": 2,
+               "x": 9,
+               "y": 7
+            },
+            "height": 267,
+            "id": "9760f499-2d49-491d-ac29-2ef49efdb274",
+            "title": "Threading",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "boxColumns": 4,
+               "boxHeight": null,
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "depth": 1,
+               "labelSize": 16,
+               "maxCellCount": 100,
+               "metric": {
+                  "mode": "resourceKind",
+                  "resourceKindMetrics": [
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel25415-1",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:{https-listener}|bytesReceived",
+                        "metricName": "Https Listener:{https-listener}|Bytes Received",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel25415-2",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:{https-listener}|bytesSent",
+                        "metricName": "Https Listener:{https-listener}|Bytes Sent",
+                        "metricUnitId": -1,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": "Auto",
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel25415-3",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:{https-listener}|errorCount",
+                        "metricName": "Https Listener:{https-listener}|Error Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     },
+                     {
+                        "colorMethod": 1,
+                        "id": "extModel25415-4",
+                        "isStringMetric": false,
+                        "link": "",
+                        "metricKey": "https_listener:{https-listener}|requestCount",
+                        "metricName": "Https Listener:{https-listener}|Request Count",
+                        "metricUnitId": null,
+                        "orangeBound": null,
+                        "redBound": null,
+                        "resourceKindId": "resourceKind:id:0_::_",
+                        "resourceKindName": "Jboss Server",
+                        "unit": null,
+                        "yellowBound": null
+                     }
+                  ],
+                  "resourceMetrics": [],
+                  "subMode": "resourceKindAll"
+               },
+               "mode": {"layoutMode": "fixedView"},
+               "oldMetricValues": false,
+               "periodLength": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "relationshipMode": {"relationshipMode": 0},
+               "resInteractionMode": null,
+               "resource": [],
+               "roundDecimals": null,
+               "selfProvider": {"selfProvider": false},
+               "showDT": {"showDT": false},
+               "showMetricName": {"showMetricName": true},
+               "showMetricUnit": {"showMetricUnit": true},
+               "showResourceName": {"showResourceName": false},
+               "showSparkline": {"showSparkline": true},
+               "title": "{https-listener}",
+               "valueSize": 24,
+               "visualTheme": 4
+            },
+            "gridsterCoords": {
+               "h": 3,
+               "w": 3,
+               "x": 8,
+               "y": 12
+            },
+            "height": 153,
+            "id": "8426c5ea-907a-4578-bd00-3d0af4226a81",
+            "title": "{https-listener}",
+            "type": "Scoreboard"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 6,
+               "w": 4,
+               "x": 1,
+               "y": 9
+            },
+            "height": 324,
+            "id": "43504dfc-fe7b-425b-bea3-700099b161e1",
+            "title": "Top Alerts",
+            "type": "ProblemAlertsList"
+         },
+         {
+            "collapsed": false,
+            "config": {
+               "autoZoom": {"autoSize": false},
+               "customFilter": {
+                  "excludedResources": null,
+                  "filter": [],
+                  "includedResources": null
+               },
+               "filterMode": "tagPicker",
+               "nodeSize": null,
+               "refreshContent": {"refreshContent": false},
+               "refreshInterval": 300,
+               "resourceId": null,
+               "resourceName": null,
+               "selfProvider": {"selfProvider": false},
+               "tagFilter": null,
+               "title": "JBoss Relationship"
+            },
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 3,
+               "y": 1
+            },
+            "height": 438,
+            "id": "36fc8294-dd1d-4212-bfa2-4e7d4c182941",
+            "states": [{
+               "key": "permResourceRelationship_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_36fc8294-dd1d-4212-bfa2-4e7d4c182941",
+               "value": "o%3A"
+            }],
+            "title": "JBoss Relationship",
+            "type": "ResourceRelationship"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 6,
+               "w": 2,
+               "x": 11,
+               "y": 1
+            },
+            "height": 321,
+            "id": "0dde0fd9-1662-4288-851b-615dfed631b0",
+            "states": [
+               {
+                  "key": "permFetchCollectingMetrics_permMetricPicker_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_0dde0fd9-1662-4288-851b-615dfed631b0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permFetchPropertyMetrics_permMetricPicker_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_0dde0fd9-1662-4288-851b-615dfed631b0",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permMetricPicker_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_0dde0fd9-1662-4288-851b-615dfed631b0",
+                  "value": "o%3Acolumns%3Da%253Ao%25253Aid%25253Ds%2525253Ah1"
+               },
+               {
+                  "key": "permFetchCommonMetrics_permMetricPicker_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_0dde0fd9-1662-4288-851b-615dfed631b0",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Metric Picker",
+            "type": "MetricPicker"
+         },
+         {
+            "collapsed": false,
+            "config": {},
+            "gridsterCoords": {
+               "h": 8,
+               "w": 2,
+               "x": 11,
+               "y": 7
+            },
+            "height": 438,
+            "id": "d1796502-17aa-4e08-be6f-fde9191ebcc1",
+            "states": [
+               {
+                  "key": "permBtn_zoomAllGraphs_permMetricChart_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_d1796502-17aa-4e08-be6f-fde9191ebcc1",
+                  "value": "b%3A0"
+               },
+               {
+                  "key": "permDateRange_permMetricChart_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_d1796502-17aa-4e08-be6f-fde9191ebcc1",
+                  "value": "s%3A%7B%22dateRange%22%3A%22dashboardTime%22%2C%22dateFrom%22%3Anull%2C%22dateTo%22%3Anull%2C%22timeFrom%22%3Anull%2C%22timeTo%22%3Anull%7D"
+               },
+               {
+                  "key": "perm_toolbarVisible_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_d1796502-17aa-4e08-be6f-fde9191ebcc1",
+                  "value": "b%3A1"
+               },
+               {
+                  "key": "permMetricChart_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_d1796502-17aa-4e08-be6f-fde9191ebcc1",
+                  "value": "o%3Aweight%3Dn%253A0"
+               },
+               {
+                  "key": "permBtn_pan_permMetricChart_widget_dd2867ef-7b15-4860-bca6-22181b3b6f2e_d1796502-17aa-4e08-be6f-fde9191ebcc1",
+                  "value": "b%3A0"
+               }
+            ],
+            "title": "Rolling View Chart",
+            "type": "RollingViewChart"
+         }
+      ]
+   }],
+   "entries": {"resourceKind": [{
+      "adapterKindKey": "APPOSUCP",
+      "internalId": "resourceKind:id:0_::_",
+      "resourceKindKey": "jboss"
+   }]},
+   "uuid": "bbc08d3a-aee8-4839-9af4-eb13c70aacbe"
+}
